@@ -1,0 +1,23 @@
+.res-header {
+    background: var(--color-black);
+
+}
+.res-header-h1 {
+    font-family: var(--font-base);
+    color: var(--color-golden);
+    letter-spacing: 0.04rem;
+    text-transform: uppercase;
+    line-height: 117px;
+    font-size: 90px;
+}
+.res-wrapper-img img {
+    width: 80%;
+}
+
+/* @media screen and (max-width: 650px) {
+    .res-header-h1 {
+        line-height: 72px;
+        font-size: 45px;
+    }
+  
+   }  */
